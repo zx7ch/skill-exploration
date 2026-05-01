@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dev Helper"
+  short_description: "One-task-at-a-time development orchestrator driven by local stage references."
+  default_prompt: "Continue development by reading dev_spec.md, selecting one actionable task, generating an implementation guide, routing coding and testing through the stage references, syncing progress, and then stopping for confirmation."
